@@ -108,4 +108,4 @@ def main():
 #    display(inversed)
     
 if __name__ == '__main__':
-        main()
+    main()
